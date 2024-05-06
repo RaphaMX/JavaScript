@@ -1,7 +1,7 @@
 # JavaScript
 Repository for JS Learning
 # Developer
-Raphael & Erik
+Raphael
 --
 ## ETEC Sales Gomes
 ## Curso: DS
